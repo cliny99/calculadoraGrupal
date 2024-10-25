@@ -1,2 +1,2 @@
 Integrantes:
-Alvarez Vega, Mía Florencia.
+Alvarez Vega, Mía Florencia (construcción de suma.js).
